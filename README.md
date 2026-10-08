@@ -30,5 +30,5 @@ Designed and deployed a full asset-tracking system that cut manual audit work an
 
 ### 📫 Reach me
 [LinkedIn](https://www.linkedin.com/in/rishiraj-parmar) · rishiraj@iastate.edu
-<img src="life.svg" width="100%" alt="Conway's Game of Life">
 <sub>Off the keyboard: tennis, 3D printing, art, and billiards.</sub>
+<img src="life.svg" width="100%" alt="Conway's Game of Life">
