@@ -9,7 +9,7 @@ Computer Engineering student at **Iowa State University**, working where hardwar
 
 ### 🛠️ Featured projects
 
-**[Archaeology Site Survey Rover] · *C, embedded microcontroller*
+**[Archaeology Site Survey Rover]**· *C, embedded microcontroller*
 Object-scanning rover that uses servo-mounted IR and ultrasonic sensors to detect and measure objects across a 180° sweep, with real-time hazard detection from bump and cliff sensors.
 
 **[Mind & Muscle]([https://github.com/rishirajparmar14-ux/REPO-NAME](https://github.com/rishirajparmar14-ux/MindandMuscle))** · *React, TypeScript, Tailwind CSS* · 
