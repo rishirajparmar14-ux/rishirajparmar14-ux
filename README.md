@@ -1,4 +1,4 @@
-# Hi, I'm Rishiraj 👋
+   <img src="header.svg" width="100%" alt="Hi, I'm Rishiraj">
 
 Computer Engineering student at **Iowa State University**, working where hardware, software, and AI meet. I enjoy low-level programming and embedded systems, and I build web apps and AI-powered workflows on the side.
 
