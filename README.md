@@ -19,10 +19,7 @@ Responsive wellness app that helps college students balance academics and fitnes
 Designed and deployed a full asset-tracking system that cut manual audit work and gave the warehouse team real-time asset visibility.
 
 ### 🧰 Tech I work with
-**Languages:** C · C++ · Python · JavaScript · TypeScript · VHDL · Assembly
-**Web:** React · Node.js · Tailwind CSS · FastAPI · Oracle APEX
-**AI:** LLMs · RAG · Agentic workflows · MCP · Ollama · CrewAI · MLflow · Databricks
-**Tools:** Git · Linux · Figma · Claude Code · Cursor
+  [![Skills](https://skillicons.dev/icons?i=c,cpp,python,js,ts,react,nodejs,tailwind,fastapi,git,linux,figma)](https://skillicons.dev)
 
 ### 📜 Certifications
 - Google AI Professional Certificate
